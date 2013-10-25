@@ -1,5 +1,5 @@
-enova-texas
-===========
+Enova No Limit Code'em (Fall 2013)
+==================================
 
 Java JSON AI created to play Texas Hold'em. Requires Java and JSON (included in src).
 
