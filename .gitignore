@@ -1,0 +1,23 @@
+# Compiler Output #
+###################
+*.py[cod]
+*.so
+*.o
+*.exe
+*.class
+
+# Folders #
+###########
+bin/
+build/
+doc/
+local/
+
+# Junk #
+########
+.DS_Store*
+.*.swp
+*.swp
+
+# Logs #
+*log
